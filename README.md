@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## 🛠️ Tech Stack
+![AI Claude](https://img.shields.io/badge/AI-Claude-orange?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-blue?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack-black?style=for-the-badge)
+
+_I build systems by day, mass-vibe-code with Claude and Codex by night ⚡✨_
+
 ## 📊 AI Usage
 [![Tokscale Stats](https://tokscale.ai/api/embed/Chr3sAl/svg?v=2)](https://tokscale.ai/u/Chr3sAl)
 
