@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm Christian 👋</h1>
 
+## 🚀 About Me
+<p align="center">
+  <b>Full Stack Developer • Turning Ideas into Systems • AI-Driven</b>
+</p>
+<br/>
 <br/>
 
 <h2 align="left">🛠️ Tech Stack</h2>
@@ -14,10 +19,7 @@
   <i>I build full-stack systems by day, mass-vibe-code with Claude and Codex by night 📈✨</i>
 </p>
 
-<p align="center">
-  <b>🚀 Full Stack Developer • Turning Ideas into Systems • AI-Driven</b>
-</p>
-<br/>
+
 
 ## 📊 AI Usage
 [![Tokscale Stats](https://tokscale.ai/api/embed/Chr3sAl/svg?v=2)](https://tokscale.ai/u/Chr3sAl)
