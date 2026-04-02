@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-## 🛠️ Tech Stack
-![AI Claude](https://img.shields.io/badge/AI-Claude-orange?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-blue?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full--Stack-black?style=for-the-badge)
-
-_I build systems by day, mass-vibe-code with Claude and Codex by night ⚡✨_
+<h2 align="left">🛠️ Tech Stack</h2>
+<p align="left">
+  <img alt="AI Claude" src="https://img.shields.io/badge/AI%20CLAUDE-D88912?style=for-the-badge">
+  <img alt="Codex" src="https://img.shields.io/badge/CODEX-111827?style=for-the-badge">
+  <img alt="IDK" src="https://img.shields.io/badge/IDK-9CA3AF?style=for-the-badge">
+  <img alt="AI Claude Does It All" src="https://img.shields.io/badge/AI%20CLAUDE%20DOES%20IT%20ALL-8B5CF6?style=for-the-badge">
+  <img alt="Codex Does It All" src="https://img.shields.io/badge/CODEX%20DOES%20IT%20ALL-102A63?style=for-the-badge">
+</p>
+<p align="center">
+  <em>I build full-stack systems by day, mass-vibe-code with Claude and Codex by night 📈✨</em>
+</p>
 
 ## 📊 AI Usage
 [![Tokscale Stats](https://tokscale.ai/api/embed/Chr3sAl/svg?v=2)](https://tokscale.ai/u/Chr3sAl)
