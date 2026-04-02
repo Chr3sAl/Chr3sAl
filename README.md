@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 📊 AI Usage
+[![Tokscale Stats](https://tokscale.ai/api/embed/Chr3sAl/svg?sort=cost&compact=1)](https://tokscale.ai/u/Chr3sAl)
+
 <!--
 **Chr3sAl/Chr3sAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
