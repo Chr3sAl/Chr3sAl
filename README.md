@@ -14,9 +14,8 @@
   <i>I build full-stack systems by day, mass-vibe-code with Claude and Codex by night 📈✨</i>
 </p>
 
-<p align="center">
-  <b>Full Stack Developer • Turning Ideas into Systems • AI-Driven</b>
-</p>
+<h2 align="center">🚀 Full Stack Developer • Turning Ideas into Systems • AI-Driven</h2>
+<hr/>
 
 ## 📊 AI Usage
 [![Tokscale Stats](https://tokscale.ai/api/embed/Chr3sAl/svg?v=2)](https://tokscale.ai/u/Chr3sAl)
