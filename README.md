@@ -9,7 +9,7 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chr3sAl/Chr3sAl/main/ChatGPT%20Image%20Apr%202%2C%202026%2C%2002_04_46%20PM.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/Chr3sAl/Chr3sAl/main/ChatGPT%20Image%20Apr%202%2C%202026%2C%2002_04_46%20PM.png" width="300"/>
 </p>
 <br/>
 
