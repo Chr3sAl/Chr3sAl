@@ -2,11 +2,11 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 <p align="center">
-  <img alt="Claude" src="https://img.shields.io/badge/CLAUDE-D88912?style=for-the-badge">
-  <img alt="Codex" src="https://img.shields.io/badge/CODEX-111827?style=for-the-badge">
+  <img alt="Claude" src="https://img.shields.io/badge/CLAUDE-D88912?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Codex" src="https://img.shields.io/badge/CODEX-111827?style=for-the-badge&logo=openai&logoColor=white">
   <img alt="IDK" src="https://img.shields.io/badge/IDK-9CA3AF?style=for-the-badge">
-  <img alt="Claude Does It All" src="https://img.shields.io/badge/CLAUDE%20DOES%20IT%20ALL-8B5CF6?style=for-the-badge">
-  <img alt="Codex Does It All" src="https://img.shields.io/badge/CODEX%20DOES%20IT%20ALL-102A63?style=for-the-badge">
+  <img alt="Claude Does It All" src="https://img.shields.io/badge/CLAUDE%20DOES%20IT%20ALL-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Codex Does It All" src="https://img.shields.io/badge/CODEX%20DOES%20IT%20ALL-102A63?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 <p align="center">
   <i>I build full-stack systems by day, mass-vibe-code with Claude and Codex by night 📈✨</i>
