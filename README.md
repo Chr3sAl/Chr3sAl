@@ -1,17 +1,12 @@
 ## Hi there 👋
 
 <h2 align="left">🛠️ Tech Stack</h2>
-
 <p align="center">
-  <img height="28" alt="Claude" src="https://img.shields.io/badge/CLAUDE-D88912?style=for-the-badge" />
-  <img height="28" alt="Codex" src="https://img.shields.io/badge/CODEX-111827?style=for-the-badge" />
-  <img height="28" alt="IDK" src="https://img.shields.io/badge/IDK-9CA3AF?style=for-the-badge" />
-  <img height="28" alt="Claude Does It All" src="https://img.shields.io/badge/CLAUDE%20DOES%20IT%20ALL-8B5CF6?style=for-the-badge" />
-  <img height="28" alt="Codex Does It All" src="https://img.shields.io/badge/CODEX%20DOES%20IT%20ALL-102A63?style=for-the-badge" />
-</p>
-<p align="center">
-  <img height="14" alt="Claude icon" src="https://api.iconify.design/mdi/sparkles.svg?color=ffffff" />
-  <img height="14" alt="Codex icon" src="https://api.iconify.design/mdi/hexagon.svg?color=ffffff" />
+  <img alt="Claude" src="https://img.shields.io/badge/✦%20CLAUDE-D88912?style=for-the-badge">
+  <img alt="Codex" src="https://img.shields.io/badge/⬢%20CODEX-111827?style=for-the-badge">
+  <img alt="Full Stack" src="https://img.shields.io/badge/FULL%20STACK-9CA3AF?style=for-the-badge">
+  <img alt="Claude Does It All" src="https://img.shields.io/badge/✦%20CLAUDE%20DOES%20IT%20ALL-8B5CF6?style=for-the-badge">
+  <img alt="Codex Does It All" src="https://img.shields.io/badge/⬢%20CODEX%20DOES%20IT%20ALL-102A63?style=for-the-badge">
 </p>
 <p align="center">
   <em>I build full-stack systems by day, mass-vibe-code with Claude and Codex by night 📈✨</em>
