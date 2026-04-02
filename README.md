@@ -2,8 +2,6 @@
 
 <br/>
 
-<hr/>
-
 <h2 align="left">🛠️ Tech Stack</h2>
 <p align="center">
   <img alt="Claude" src="https://img.shields.io/badge/✦%20CLAUDE-D88912?style=for-the-badge">
