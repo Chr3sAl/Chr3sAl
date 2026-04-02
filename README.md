@@ -4,7 +4,13 @@
 <p align="center">
   <b>Full Stack Developer • Turning Ideas into Systems • AI-Driven</b>
 </p>
+<p align="center">
+  I build scalable systems and AI-powered applications — from backend logic to real-world products.
+</p>
 <br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chr3sAl/Chr3sAl/main/ChatGPT%20Image%20Apr%202%2C%202026%2C%2002_04_46%20PM.png" width="900"/>
+</p>
 <br/>
 
 <h2 align="left">🛠️ Tech Stack</h2>
@@ -18,8 +24,6 @@
 <p align="center">
   <i>I build full-stack systems by day, mass-vibe-code with Claude and Codex by night 📈✨</i>
 </p>
-
-
 
 ## 📊 AI Usage
 [![Tokscale Stats](https://tokscale.ai/api/embed/Chr3sAl/svg?v=2)](https://tokscale.ai/u/Chr3sAl)
