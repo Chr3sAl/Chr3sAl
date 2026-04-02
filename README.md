@@ -1,4 +1,5 @@
-## Hi there 👋 I am Christian!
+<h1 align="center">Hi there 👋</h1>
+<p align="center"><b>I am Christian</b></p>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 <p align="center">
